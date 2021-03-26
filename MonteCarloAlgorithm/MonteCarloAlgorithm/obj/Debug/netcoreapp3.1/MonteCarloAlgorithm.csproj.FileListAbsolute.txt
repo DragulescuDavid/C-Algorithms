@@ -1,0 +1,13 @@
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.exe
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.deps.json
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.runtimeconfig.json
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.runtimeconfig.dev.json
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.dll
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\netcoreapp3.1\MonteCarloAlgorithm.pdb
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.csprojAssemblyReference.cache
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.AssemblyInfoInputs.cache
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.AssemblyInfo.cs
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.csproj.CoreCompileInputs.cache
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.dll
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.pdb
+D:\INFO\Proiecte\C#\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\netcoreapp3.1\MonteCarloAlgorithm.genruntimeconfig.cache
