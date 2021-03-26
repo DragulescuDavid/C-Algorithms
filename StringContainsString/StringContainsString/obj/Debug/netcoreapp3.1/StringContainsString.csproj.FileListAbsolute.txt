@@ -1,0 +1,13 @@
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.csprojAssemblyReference.cache
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.AssemblyInfoInputs.cache
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.AssemblyInfo.cs
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.csproj.CoreCompileInputs.cache
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.exe
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.deps.json
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.runtimeconfig.json
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.runtimeconfig.dev.json
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.dll
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\bin\Debug\netcoreapp3.1\StringContainsString.pdb
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.dll
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.pdb
+D:\INFO\Proiecte\C#\StringContainsString\StringContainsString\obj\Debug\netcoreapp3.1\StringContainsString.genruntimeconfig.cache
